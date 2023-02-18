@@ -11,6 +11,7 @@ Downgraded Toastify to "react-toastify": "^8.1.0", due to weird bug
 **Few Backend Notes:**
 
 Authentication: check if you are the person you claim to be
-authorization: based on status and credentials, what can you do
+
+Authorization: based on status and credentials, what can you do
 
 JWT is used to make sure the person isn’t fake… It’s NOT to encrypt data (header [algorithm and token type] + payload [data] + secret_key [only accessible in backend hidden])
