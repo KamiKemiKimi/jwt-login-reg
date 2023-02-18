@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=7UQBMb8ZpuE&t=235s
+https://www.youtube.com/watch?v=cjqfF5hyZFg
 
 # jwt-login-reg
 
