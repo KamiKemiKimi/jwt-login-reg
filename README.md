@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=7UQBMb8ZpuE&t=235s
+
 # jwt-login-reg
 
 nodemon start on server
