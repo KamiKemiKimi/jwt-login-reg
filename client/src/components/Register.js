@@ -1,4 +1,3 @@
-
 import React, { Fragment, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
@@ -38,7 +37,6 @@ const Register = ({ setAuth }) => {
         setAuth(true);
         toast.success("Registered successfully!");
       } else {
-        setAuth(false);
         toast.error(parseRes);
       }
 

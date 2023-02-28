@@ -5,9 +5,9 @@ import './App.css';
 
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 
-import Dashboard from "./components/Dashboard";
-import Register from "./components/Register";
-import Login from "./components/Login";
+import Dashboard from './components/Dashboard';
+import Register from './components/Register';
+import Login from './components/Login';
 
 toast.configure();
 
